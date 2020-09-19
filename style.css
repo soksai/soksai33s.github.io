@@ -14,12 +14,12 @@ body{
     
     margin: auto;
     background-color: aquamarine;
-    height: 100%;
+    height: auto;
     
 }
 .wrapper{
     display: inline-block;
-    height: 100%;
+    height: auto;
 }
 
 
@@ -35,7 +35,7 @@ body{
 
 nav{
     font-family: 'Baloo 2', cursive;
-    width: 2000px; 
+    width: auto; 
     background-image:url(images/background%20faf.jpg);
     
 }
@@ -68,7 +68,7 @@ nav{
 .content{
     font-family: 'Baloo 2', cursive;
     background-image:url(images/background.JPG);
-    height: 1600px;
+    height: auto;
     
     background-position: center;
     padding: 100px;
@@ -79,7 +79,7 @@ nav{
     border-color: #000000;
     border: none;
     color: gold;
-    width: 550px;
+    width: auto;
     padding: 20px;
     background-color: Transparent;
     background-repeat:no-repeat;
@@ -91,7 +91,7 @@ nav{
     border-color: #000000;
     background-color: rgba(0, 0, 0, 0.65);
     color: gold;
-    width: 1000px;
+    width: auto;
     padding: 20px;
     float: left;
     background-repeat:no-repeat;
@@ -103,14 +103,14 @@ nav{
     border-color: #000000;
     background-color: rgba(0, 0, 0, 0.65);
     color: gold;
-    width: 900px;
+    width: auto;
     padding: 20px;
     float: right;
     outline-width: medium;
     margin: 50px;
 }
 .right i {
-    width: 300px;
+    width: auto;
     font-size: 50px;
     color: #ff0000;
 }
@@ -133,7 +133,7 @@ nav{
     border-color: #000000;
     background-color: rgba(0, 0, 0, 0.65);
     color: gold;
-    width: 1000px;
+    width: auto;
     padding: 50px;
     display: inline-block;
     background-repeat:no-repeat;
@@ -154,7 +154,7 @@ nav{
 .content2{
     background-image: url(images/backgroundiop.jpg);
     text-align: center;
-    height: 1150px;
+    height: auto;
 }
 .pic img{
     background-color: rgba(0, 0, 0, 0.65);
@@ -170,8 +170,8 @@ nav{
     font-family: 'Anton', sans-serif;
     background-image: url(images/background%20-%20Copy.JPG);
     color: aliceblue;
-    height: 250px;
-    width: 2000px;
+    height: auto;
+    width: auto;
     background-position: center;
     overflow: hidden;
 }
